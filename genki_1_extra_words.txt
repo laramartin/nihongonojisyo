@@ -15,8 +15,8 @@
 わかりません　	I don't understand / I don't know
 ゆっくりいってください　	Please, say it slowly
 もういちどいってください　	Please, say it again
-ちょっとまってください　	Please wait
-きいてください　	Please listen / Pleas
+ちょっとまってください　	Please wait 	.	ちょっと待って下さい
+きいてください　	Please listen	.	聞いて下さい
 10ペエジをみてください　	Please look at page 10
 こくばん　	blackboard
 けしゴム 	eraser
